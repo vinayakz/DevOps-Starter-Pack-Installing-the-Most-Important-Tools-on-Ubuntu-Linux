@@ -224,10 +224,7 @@ ansible --version
 ```
 
 ## 6. Install Kubernetes 
-GOTO this Link
-```bash
-https://github.com/vinayakz/kubernetes
-```
+GOTO this Link https://github.com/vinayakz/kubernetes Full Detail about k8's Setup
 
 ## 7. Install Prometheus
 Prometheus is a monitoring and alerting toolkit.
@@ -312,7 +309,7 @@ helm version
 ```
 
 
-## Install ArgoCD:
+## 10. Install ArgoCD:
 
 1. Create the ArgoCD Namespace:
 ```bash
